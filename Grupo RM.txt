@@ -3,3 +3,6 @@ Sofia Sawczenko RM550496
 Leandro Cavallari RM98739
 Breno Perroti RM550434
 Gabriel Tavares RM97753
+
+link da aplicação no ar:
+https://fiap-link-rango-gs.vercel.app/
