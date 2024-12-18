@@ -2,7 +2,8 @@
 ![image](https://github.com/user-attachments/assets/d2b40a78-3a15-4f38-9da4-f5fdfdc942b9)
 
 Link Rango is a Software as a Service (SaaS) platform designed to facilitate connections between individuals or establishments with surplus food and Non-Governmental Organizations (NGOs).
-
+- Check it out on: https://linkrango.netlify.app/
+  
 ## Overview
 
 The platform aims to reduce food waste by connecting donors (restaurants, individuals, events) with NGOs or people in need. It allows users to offer surplus food for donation, and enables NGOs or individuals in vulnerable situations to find and collect these donations, helping to combat hunger.
@@ -20,9 +21,6 @@ The platform aims to reduce food waste by connecting donors (restaurants, indivi
 - **img/**: Directory containing images used on the site.
 - **css/styles.css**: Custom styles for the platform.
 - **js/**: Custom JavaScript to handle functionalities like modal data display for food donation goals.
-
-- **Food Donation Map:**
-![Food Donation Map](img/brazil-hungry-map.svg)
 
 
 ## How to Run
